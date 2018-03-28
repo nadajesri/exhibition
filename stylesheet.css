@@ -1,7 +1,7 @@
 html {
 	background:url("images/compassmap.jpg");
 	background-size: cover;
-	cursor: url(http://cur.cursors-4u.net/cursors/cur-8/cur719.cur), auto;
+	cursor: url(http://ani.cursors-4u.net/others/oth-9/oth907.cur), auto ;
 }
 h1 {
 	color: #402F29;
@@ -9,14 +9,14 @@ h1 {
 	font-size: 60px;
 	font-family: Papyrus;
 	font-weight: bold;
-	cursor: url(http://cur.cursors-4u.net/cursors/cur-8/cur719.cur), auto;
+	cursor: url(http://ani.cursors-4u.net/others/oth-9/oth907.cur), auto ;
 }
 body {
 	font-family:Papyrus;
 	font-size: 50px;
 	color: #E0FFE9;
 	font-weight: bold;
-	cursor: url(http://cur.cursors-4u.net/cursors/cur-8/cur719.cur), auto;
+	cursor: url(http://ani.cursors-4u.net/others/oth-9/oth907.cur), auto ;
 }
 a {
 	color: #000000;
@@ -24,7 +24,7 @@ a {
 }
 p { 
 	color: #000000;
-	cursor: url(http://cur.cursors-4u.net/cursors/cur-8/cur719.cur), auto;
+	cursor: url(http://ani.cursors-4u.net/others/oth-9/oth907.cur), auto ;
 }
 .grid {
 	display: grid;
@@ -33,5 +33,5 @@ p {
 	grid-gap: 2vh;
 	border: 4px #402F29 solid;
 	background-color:#E0FFE9;
-	cursor: url(http://cur.cursors-4u.net/cursors/cur-8/cur719.cur), auto;
+	cursor: url(http://ani.cursors-4u.net/others/oth-9/oth907.cur), auto ;
 }
